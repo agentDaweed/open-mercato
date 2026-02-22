@@ -446,3 +446,4 @@ Summary:
 - Enterprise Edition includes production readiness standards, architecture/security review workflow, and production approval support.
 - Certified partner agencies deliver projects while Open Mercato provides platform standards and certification path.
 - Full commercial and partnership details: [`packages/enterprise/README.md`](packages/enterprise/README.md).
+# Jan Koperek fork
